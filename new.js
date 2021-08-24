@@ -1,2 +1,2 @@
 const a = 6
-const b = 5
+const b = 10
